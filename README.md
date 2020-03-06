@@ -6,7 +6,7 @@ NOTE: names are case-sensitive (e.g. 'TeX' is a valid template, but 'tex' is not
 ## Getting Started
 Clone this repo and add it to your path, or create an alias in your ~/.bashrc such as:
 ```console
-foo@bar:~$ git clone https://github.com/crheidri/gitignore.git ~/gitignore
+foo@bar:~$ git clone https://github.com/crheidri/git-ignore.git ~/gitignore
 foo@bar:~$ echo 'alias gitignore="~/gitignore/gitignore.sh"' >> ~/.bashrc
 ```
 
